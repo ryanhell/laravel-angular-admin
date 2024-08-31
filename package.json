@@ -4,7 +4,7 @@
     "angular-mocks": "^1.5.2",
     "bower": "^1.7.9",
     "jasmine-core": "^2.4.1",
-    "karma": "^0.13.22",
+    "karma": "^6.4.4",
     "karma-babel-preprocessor": "~4.0.0",
     "karma-browserify": "^4.0.0",
     "karma-chrome-launcher": "^0.2.3",
@@ -49,8 +49,8 @@
     "laravel-elixir-karma": "^0.2.2",
     "main-bower-files": "^2.1.0",
     "underscore": "^1.8.3",
-    "webpack": "^1.12.11",
-    "webpack-dev-server": "^1.14.1",
+    "webpack": "^5.94.0",
+    "webpack-dev-server": "^5.0.4",
     "webpack-stream": "^3.1.0"
   },
   "engines": {
